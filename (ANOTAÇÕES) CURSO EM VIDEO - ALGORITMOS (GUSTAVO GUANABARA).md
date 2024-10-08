@@ -80,7 +80,7 @@ FimAlgoritmo
 
 ## OPERADORES ARITMÉTICOS
 
-**Se: A = 5 e B =2**
+**Exemplo: se: A = 5 e B =2**
 
 \+ Adição > A + B = 7
 
@@ -130,7 +130,7 @@ F	F	F
 
 
 
-p	q	p **OU** q (paula **OU** queila devem estar felizes -ou uma ou a outra)
+p	q	p **OU** q (paula **OU** queila deve estar feliz -ou uma ou a outra)
 
 V	V	V
 
